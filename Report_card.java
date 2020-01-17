@@ -13,6 +13,7 @@ public class Report_card {
 				}
 		}
 		
+		
 
 		System.out.println(sum); 
 	}

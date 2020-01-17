@@ -3,7 +3,10 @@ package allQuestion;
 public class Report_Card2 {
 
 	public static void main(String[] args) {
-		int[][] arr = { { 78, 76, 94, 86, 88 }, { 91, 71, 98, 65 }, { 95, 45, 78 } };
+		int[][] arr = {  {78, 76, 94, 86, 88},
+			    {91, 71, 98, 65},
+			    {95, 45, 78},
+			    {87, 67, 49, 68, 88} };
 
 		int sum = 0;
 		int average = 0;
@@ -16,8 +19,7 @@ public class Report_Card2 {
 			System.out.println(average);
 			sum = 0;
 		}
-		System.out.println(average);
-
+		
 	}
 
 }

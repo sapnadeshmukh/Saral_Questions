@@ -1,10 +1,16 @@
 package allQuestion;
-
 public class Method4 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	static void add (int[] arr1,int[] arr2) {
 	}
+		
+	
+
+
+	public static void main(String[]args) {
+		
+
+	}	
+		
+	
 
 }

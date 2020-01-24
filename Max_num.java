@@ -3,7 +3,7 @@ package allQuestion;
 public class Max_num {
 
 	public static void main(String[] args) {
-		int[] numbers = { 50, 40, 23, 70, 56, 12, 5, 10, 7 };
+		int[] numbers = { 50, 40, 23, 3456,70, 56, 12, 5, 10, 7 };
 		int max_num = numbers[0];
 		int index;
 		for (index = 0; index < numbers.length; index++)
@@ -16,7 +16,7 @@ public class Max_num {
 			}
 
 		}
-		System.out.println(max_num);
+		System.out.print(max_num);
 
 	}
 }

@@ -11,12 +11,12 @@ public class CounterQue13 {
 		System.out.println("Enter second number");
 		int num2=s.nextInt();
 		int multi=0;
-		for (int index=0;index<num2;index++) {
-			multi=multi+num1;
+		for (int index=0;index<num1;index++) {
+			multi=multi+num2;
 		
 			
 		}
-		System.out.println("Multiplication of two number is :" + multi);
+		System.out.print("Multiplication of two number is :" + multi);
 		
 	}
 

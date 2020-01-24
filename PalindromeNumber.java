@@ -9,7 +9,8 @@ public class PalindromeNumber {
 		System.out.println("enter a number ");
 		int no=n.nextInt();
 		int temp=no;
-		int rev=0,rem;
+		int rev=0;
+		int rem;
 		while (temp!=0) {
 			rem=temp%10;
 			rev=rev*10+rem;

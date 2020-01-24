@@ -10,7 +10,7 @@ public class FindLengthWithoutLengthMethod {
 		for (int index:numbers) {
 			count=count+1;
 			
-		}System.out.println(count);
+		}System.out.print(count);
 		
 
 	}

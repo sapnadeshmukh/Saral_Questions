@@ -7,7 +7,7 @@ public class GreaterThan20fromList {
 		int index;
 		int count = 0;
 		for(index=0;index < number.length;index++) {
-			if (number[index]>20 && number[index]<40) {
+			if ((number[index]>20 && number[index]<40)) {
 				count=count+1;
 			}
 			

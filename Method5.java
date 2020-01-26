@@ -13,6 +13,7 @@ public class Method5 {
 				}else {
 					System.out.println("dono even nahi hai");
 				}
+			
 				System.out.println("--------------------");
 
 			}

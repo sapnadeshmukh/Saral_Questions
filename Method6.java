@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Method6 {
 
-	static int addition(double num1, double num2) {
-		int sum = (int) (num1 + num2);
+	static double addition(double  num1, double num2) {
+		double sum =  (num1 + num2);
 		return (sum);
 	}
 
